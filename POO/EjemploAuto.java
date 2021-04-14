@@ -1,3 +1,5 @@
+package POO;
+
 import java.util.Date;
 
 public class EjemploAuto {

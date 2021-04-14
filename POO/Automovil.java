@@ -1,3 +1,5 @@
+package POO;
+
 public class Automovil {
 
     private String fabricante;
@@ -106,7 +108,7 @@ public class Automovil {
 
     @Override
     public String toString() {
-        return "Automovil{" +
+        return "POO.Automovil{" +
                 "fabricante='" + fabricante + '\'' +
                 ", modelo='" + modelo + '\'' +
                 ", color='" + color + '\'' +
